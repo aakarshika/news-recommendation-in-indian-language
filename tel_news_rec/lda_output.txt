@@ -1,0 +1,93 @@
+
+  lifestyle   lifestyle  0.0751576598629
+  lifestyle   topstories  0.0734614750361
+  lifestyle   business  0.0756386997186
+  lifestyle   entertainment  0.0789841744472
+  lifestyle   domestic  0.0769763020796
+  lifestyle   sports  0.077699419167
+  lifestyle   health  0.0776607125274
+  lifestyle   politics  0.0755935216467
+  lifestyle   world  0.0779987587602
+  Other categories -    0.0779987587602
+  topstories   lifestyle  0.0737863977191
+  topstories   topstories  0.102387161976
+  topstories   business  0.0708455870916
+  topstories   entertainment  0.0709075754703
+  topstories   domestic  0.075180442035
+  topstories   sports  0.0758262961124
+  topstories   health  0.0676187898348
+  topstories   politics  0.0745301197849
+  topstories   world  0.0738989387252
+  Other categories -    0.0738989387252
+  business   lifestyle  0.0757231500227
+  business   topstories  0.0706447667313
+  business   business  0.108909114721
+  business   entertainment  0.0956689886591
+  business   domestic  0.0789970987811
+  business   sports  0.121374124726
+  business   health  0.0864506026521
+  business   politics  0.0730975186973
+  business   world  0.0825561968512
+  Other categories -    0.0825561968512
+  entertainment   lifestyle  0.0790325871889
+  entertainment   topstories  0.0706896755809
+  entertainment   business  0.095602463078
+  entertainment   entertainment  0.102783113715
+  entertainment   domestic  0.0828433723212
+  entertainment   sports  0.1035951551
+  entertainment   health  0.093557673986
+  entertainment   politics  0.0758014628821
+  entertainment   world  0.0876015115367
+  Other categories -    0.0876015115367
+  domestic   lifestyle  0.0769639374137
+  domestic   topstories  0.0748282884857
+  domestic   business  0.078897790369
+  domestic   entertainment  0.0827962536555
+  domestic   domestic  0.0781150436719
+  domestic   sports  0.0819789666282
+  domestic   health  0.0800356727914
+  domestic   politics  0.0763955310494
+  domestic   world  0.0804123031714
+  Other categories -    0.0804123031714
+  sports   lifestyle  0.0778273853534
+  sports   topstories  0.0754853619318
+  sports   business  0.121374931629
+  sports   entertainment  0.103749230026
+  sports   domestic  0.0821301302216
+  sports   sports  0.140803430512
+  sports   health  0.0913732731897
+  sports   politics  0.0749054346251
+  sports   world  0.0868724798536
+  Other categories -    0.0868724798536
+  health   lifestyle  0.0776742140208
+  health   topstories  0.0672874150099
+  health   business  0.0863371879295
+  health   entertainment  0.0935281865103
+  health   domestic  0.0800581379586
+  health   sports  0.0912280471689
+  health   health  0.0878834197594
+  health   politics  0.0752944714243
+  health   world  0.0838322165564
+  Other categories -    0.0838322165564
+  politics   lifestyle  0.0755779799108
+  politics   topstories  0.0742167079085
+  politics   business  0.0730095488542
+  politics   entertainment  0.075740002673
+  politics   domestic  0.0763939752119
+  politics   sports  0.0747711320729
+  politics   health  0.0752726975175
+  politics   politics  0.0762883347635
+  politics   world  0.0764099640413
+  Other categories -    0.0764099640413
+  world   lifestyle  0.0780160365693
+  world   topstories  0.0735976810418
+  world   business  0.0824820365353
+  world   entertainment  0.0875534229334
+  world   domestic  0.080437715976
+  world   sports  0.0867290274187
+  world   health  0.0838270897913
+  world   politics  0.076400755159
+  world   world  0.0822497206865
+  Other categories -    0.0822497206865
+  same category avg   - 0.0949529999631   Other category avg  -  0.0808548080491
+  F-score   0.17212454193
